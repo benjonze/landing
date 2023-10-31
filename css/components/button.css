@@ -1,0 +1,15 @@
+.btn-white {
+  display: inline-block;
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 5px;
+  padding: 16px 24px;
+  font-weight: 400;
+  box-shadow: 2px 2px 4px #000000;
+}
+
+.btn-white:hover {
+  background-color: black;
+  color: whitesmoke;
+  transition: 1s ease;
+}
